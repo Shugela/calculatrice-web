@@ -12,6 +12,6 @@ document.addEventListener("DOMContentLoaded", () => {
   console.log("Calculatrice initialisée !");
 });
 
-export function mul(a, b) {
+export function multiply(a, b) {
   return a * b;
 }
